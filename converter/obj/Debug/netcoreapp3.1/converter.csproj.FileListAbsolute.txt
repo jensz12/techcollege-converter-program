@@ -1,0 +1,14 @@
+C:\Users\jens\source\repos\converter\converter\bin\Debug\netcoreapp3.1\converter.exe
+C:\Users\jens\source\repos\converter\converter\bin\Debug\netcoreapp3.1\converter.deps.json
+C:\Users\jens\source\repos\converter\converter\bin\Debug\netcoreapp3.1\converter.runtimeconfig.json
+C:\Users\jens\source\repos\converter\converter\bin\Debug\netcoreapp3.1\converter.runtimeconfig.dev.json
+C:\Users\jens\source\repos\converter\converter\bin\Debug\netcoreapp3.1\converter.dll
+C:\Users\jens\source\repos\converter\converter\bin\Debug\netcoreapp3.1\converter.pdb
+C:\Users\jens\source\repos\converter\converter\obj\Debug\netcoreapp3.1\converter.csproj.AssemblyReference.cache
+C:\Users\jens\source\repos\converter\converter\obj\Debug\netcoreapp3.1\converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jens\source\repos\converter\converter\obj\Debug\netcoreapp3.1\converter.AssemblyInfoInputs.cache
+C:\Users\jens\source\repos\converter\converter\obj\Debug\netcoreapp3.1\converter.AssemblyInfo.cs
+C:\Users\jens\source\repos\converter\converter\obj\Debug\netcoreapp3.1\converter.csproj.CoreCompileInputs.cache
+C:\Users\jens\source\repos\converter\converter\obj\Debug\netcoreapp3.1\converter.dll
+C:\Users\jens\source\repos\converter\converter\obj\Debug\netcoreapp3.1\converter.pdb
+C:\Users\jens\source\repos\converter\converter\obj\Debug\netcoreapp3.1\converter.genruntimeconfig.cache
