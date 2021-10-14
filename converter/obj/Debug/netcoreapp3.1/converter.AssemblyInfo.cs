@@ -11,11 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("converter")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Jens Møller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("2021 Jens Møller")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Converter software")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("converter")]
+[assembly: System.Reflection.AssemblyProductAttribute("Converter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("converter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

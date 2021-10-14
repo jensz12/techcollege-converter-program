@@ -1,5 +1,9 @@
-class Program
-    {     
+﻿using System;
+
+namespace converter
+{
+    class Program
+    {
         static void Binærtal_til_Hex()
         {
             string[] binærtal = new string[8];
@@ -36,10 +40,10 @@ class Program
                 hextal2[a] = hextal2[a] * x;
                 x = x * 2;
             }
-            string[] bogstaver = { "A",  "B",  "C",  "D",  "E",  "f" };
-           int hexdi1 = hextal1[0] + hextal1[1] + hextal1[2] + hextal1[3];
-           int hexdi2 = hextal2[0] + hextal2[1] + hextal2[2] + hextal2[3];
-            if(hexdi1 > 9)
+            string[] bogstaver = { "A", "B", "C", "D", "E", "f" };
+            int hexdi1 = hextal1[0] + hextal1[1] + hextal1[2] + hextal1[3];
+            int hexdi2 = hextal2[0] + hextal2[1] + hextal2[2] + hextal2[3];
+            if (hexdi1 > 9)
             {
                 if (hexdi1 == 10)
                     Console.Write(bogstaver[0]);
@@ -60,7 +64,7 @@ class Program
                     Console.Write(bogstaver[5]);
             }
 
-            if(hexdi2 > 9)
+            if (hexdi2 > 9)
             {
                 if (hexdi2 == 10)
                     Console.Write(bogstaver[0]);
@@ -81,7 +85,7 @@ class Program
                     Console.Write(bogstaver[5]);
             }
             Console.ReadKey();
-        }  
+        }
         static void Decimaltal_til_Binærtal()
         {
             int x = 128;
@@ -180,7 +184,7 @@ class Program
                 Console.WriteLine("---------------------");
                 Console.Write("Vælg funktion: ");
                 input = Console.ReadLine();
-               
+
                 if (input == "1")
                 {
                     Console.WriteLine("---------------------");
@@ -189,15 +193,15 @@ class Program
                     Console.WriteLine("---------------------");
                     Decimaltal_til_Binærtal();
                 }
-                if(input == "2")
+                if (input == "2")
                 {
                     Console.WriteLine("---------------------");
                     Console.WriteLine("Fra Decimaltal til Hex");
                     Console.WriteLine("Skriv et Decimaltal fra 0 til 255");
                     Console.WriteLine("---------------------");
-                    
+
                 }
-                if(input == "5")
+                if (input == "5")
                 {
                     Console.WriteLine("---------------------");
                     Console.WriteLine("Fra Binærtal til Hex ");
